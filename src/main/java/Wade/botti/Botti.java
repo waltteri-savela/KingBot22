@@ -14,7 +14,7 @@ import java.util.function.Consumer;
 
 public class Botti {
 
-    private final DiscordClient client = new DiscordClientBuilder("Njg1MTA4OTQxNDUzMjYyODY0.XmD7kA.u4jMfNWC4RRDmRqgCwf2ii3MGZk").build();
+    private final DiscordClient client = new DiscordClientBuilder("Removed").build();
     private ArrayList<User> users = new ArrayList<>();
 
     public Botti() {
